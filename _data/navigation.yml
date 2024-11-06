@@ -21,8 +21,6 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Team"
       section: team
-    - title: "Contact"
-      section: contact
     - title: "Theme Source"
       url: https://almasb.github.io/RAI/
 en-US:

@@ -118,6 +118,16 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "Shanay Rab"
+        role: "Role"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
       - name: "Sajjad Hussain"
         role: "Role"
         image: assets/img/team/500x500.jpg

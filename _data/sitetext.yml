@@ -69,43 +69,27 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Contact Us"
+    text: ""
+    body: "**Contact Details** supported."
     section: about
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: ""
+    subtext: **Markdown**
     section: team
     people:
-      - name: "[Almas Baim](https://github.com/AlmasB/)"
+      - name: "Almas Baim"
         role: "Role"
         image: assets/img/team/ab.png
         social:
+          - url: https://research.brighton.ac.uk/en/persons/almas-baimagambetov
+            icon: fas fa-user-circle
+          - url: https://github.com/AlmasB/
+            icon: fab fa-github
           - url: https://www.youtube.com/@AlmasB0
             icon: fab fa-youtube
-          - url: https://research.brighton.ac.uk/en/persons/almas-baimagambetov
-            icon: fa-solid fa-user
       - name: "Khizer Saeed"
         role: "Role"
         image: assets/img/team/500x500.jpg

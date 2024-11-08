@@ -98,12 +98,12 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Almas Baim"
+      - name: "[Almas Baim](https://github.com/AlmasB/)"
         role: "Role"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/ab.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          - url: https://www.youtube.com/@AlmasB0
+            icon: fa-brands fa-youtube
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com

@@ -13,16 +13,17 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "Portfolio"
+    - title: "Projects"
       section: portfolio
-    - title: "About"
-      section: about
     - title: "Timeline"
       section: timeline
     - title: "Team"
       section: team
-    - title: "Theme Source"
-      url: https://almasb.github.io/RAI/
+    - title: "Contact"
+      section: about
+#    - title: "Theme Source"
+#      url: https://almasb.github.io/RAI/
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:

@@ -17,7 +17,7 @@ remote_theme: AlmasB/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/RAI" # the subpath of your site, e.g. /blog
 
-title      : Robotics AI Lab
+title      : University of Brighton Robotics AI Lab
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "University of Brighton Robotics AI Lab website"
 author     : Almas Baim

@@ -21,15 +21,12 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "as PhD student..."
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "2..."
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown) 3..."
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Study for your PhD"
+        desc: "We welcome any applications related to Robotics and/or AI. You can find out more at [UoB Computing PhD](https://www.brighton.ac.uk/research/postgraduate-research-degrees/index.aspx)"
+        icon: fas fa-graduation-cap
+      - title: "Work with our team"
+        desc: "We are always looking to create new networks and support academic and industrial collaborations."
+        icon: fas fa-user-plus
 
   portfolio:
     title: "Research Projects"
@@ -39,8 +36,8 @@ en: &DEFAULT_EN
 
   about:
     title: "Contact Us"
-    text: ""
-    body: "**Contact Details** supported."
+    text: "University of Brighton<br/>Advanced Engineering Building<br/>Brighton<br/>United Kingdom<br/>BN2 4AT"
+    body: "Please contact [Almas](https://research.brighton.ac.uk/en/persons/almas-baimagambetov) for any queries related to the Robotics AI Lab."
     section: about
 
   team:
@@ -63,18 +60,14 @@ en: &DEFAULT_EN
         role: "Role"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://research.brighton.ac.uk/en/persons/khizer-saeed
+            icon: fas fa-user-circle
       - name: "Shanay Rab"
         role: "Role"
         image: assets/img/team/sr.png
         social:
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://research.brighton.ac.uk/en/persons/shanay-rab
+            icon: fas fa-user-circle
       - name: "Sajjad Hussain"
         role: "Role"
         image: assets/img/team/sh.png
@@ -105,13 +98,7 @@ en: &DEFAULT_EN
 
   footer:
     legal: "Privacy Policy"
-    social:
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:

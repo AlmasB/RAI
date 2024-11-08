@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Research Projects"
+    text: "Advancing closer to the future of intelligent systems."
     section: portfolio
     closebutton: "Close Project"
 
@@ -73,11 +73,6 @@ en: &DEFAULT_EN
     text: ""
     body: "**Contact Details** supported."
     section: about
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
 
   team:
     title: "OUR TEAM"

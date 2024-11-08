@@ -103,11 +103,9 @@ en: &DEFAULT_EN
         image: assets/img/team/ab.png
         social:
           - url: https://www.youtube.com/@AlmasB0
-            icon: fa-brands fa-youtube
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+            icon: fab fa-youtube
+          - url: https://research.brighton.ac.uk/en/persons/almas-baimagambetov
+            icon: fa-solid fa-user
       - name: "Khizer Saeed"
         role: "Role"
         image: assets/img/team/500x500.jpg

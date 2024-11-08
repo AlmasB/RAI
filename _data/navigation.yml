@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Team"
       section: team
-    - title: "Work/Study With Us"
+    - title: "Study/Work With Us"
       section: services
     - title: "Contact"
       section: about

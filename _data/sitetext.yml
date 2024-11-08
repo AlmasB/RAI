@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Work or Study With Us"
+    title: "Study or Work With Us"
     text: ""
     section: services
     list:
@@ -43,11 +43,11 @@ en: &DEFAULT_EN
   team:
     title: "STAFF"
     text: ""
-    subtext: "**Markdown**"
+    subtext: ""
     section: team
     people:
       - name: "Almas Baim"
-        role: "Role"
+        role: "Lead Software Architect, Co-Founder"
         image: assets/img/team/ab.png
         social:
           - url: https://research.brighton.ac.uk/en/persons/almas-baimagambetov
@@ -57,7 +57,7 @@ en: &DEFAULT_EN
           - url: https://www.youtube.com/@AlmasB0
             icon: fab fa-youtube
       - name: "Khizer Saeed"
-        role: "Role"
+        role: "Engineering Lead, Co-Founder"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://research.brighton.ac.uk/en/persons/khizer-saeed
@@ -72,8 +72,8 @@ en: &DEFAULT_EN
   students:
     title: "STUDENTS"
     text: ""
-    subtext: "**Markdown**"
-    section: team
+    subtext: ""
+    section: students
     people:
       - name: "Sajjad Hussain"
         role: "Lead Researcher"

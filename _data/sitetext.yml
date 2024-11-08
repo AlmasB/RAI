@@ -74,6 +74,11 @@ en: &DEFAULT_EN
     body: "**Contact Details** supported."
     section: about
 
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+
   team:
     title: "OUR TEAM"
     text: ""

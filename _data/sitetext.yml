@@ -17,17 +17,17 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Work or Study With Us"
+    text: ""
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "as PhD student..."
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "2..."
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown) 3..."
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
@@ -71,12 +71,8 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Shanay Rab"
         role: "Role"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/sr.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Sajjad Hussain"

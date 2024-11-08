@@ -82,7 +82,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR TEAM"
     text: ""
-    subtext: **Markdown**
+    subtext: "**Markdown**"
     section: team
     people:
       - name: "Almas Baim"

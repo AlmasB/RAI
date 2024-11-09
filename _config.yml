@@ -11,8 +11,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#theme: jekyll-agency
-remote_theme: AlmasB/agency-jekyll-theme
+theme: jekyll-agency
+#remote_theme: AlmasB/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/RAI" # the subpath of your site, e.g. /blog
@@ -39,5 +39,5 @@ markdown: kramdown
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
 
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme

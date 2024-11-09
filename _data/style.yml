@@ -21,7 +21,7 @@ fonts_urls:
 fonts:
   - name: "Montserrat"
     for: "heading"
-  - name: "Kaushan Script"
+  - name: "Droid Serif"
     for: "script"
   - name: "Droid Serif"
     for: "serif"

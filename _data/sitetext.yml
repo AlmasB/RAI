@@ -11,10 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Lab!
+    title: ""
     text: "In Development"
-    button: Explore
-    buttonlink: "#services"
 
   services:
     title: "Study or Work With Us"

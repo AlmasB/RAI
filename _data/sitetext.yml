@@ -83,7 +83,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Ola Ezekiel"
         role: "Emotion Recognition Researcher"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/ote.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in

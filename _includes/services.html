@@ -1,6 +1,6 @@
 <!-- Services -->
 {% if site.locale and site.locale != "" and site.locale != nil %}
-  <section class="page-section" id="{{ site.data.sitetext[site.locale].services.section | default: "services" }}">
+  <section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].services.section | default: "services" }}">
     <div class="container">
 	
       <div class="row">
@@ -28,7 +28,7 @@
     </div>
   </section>
 {% else %}
-<section class="page-section" id="{{ site.data.sitetext.services.section | default: "services" }}">
+<section class="bg-light page-section" id="{{ site.data.sitetext.services.section | default: "services" }}">
   <div class="container">
 
     <div class="row">

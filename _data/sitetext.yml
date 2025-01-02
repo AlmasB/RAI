@@ -74,20 +74,20 @@ en: &DEFAULT_EN
     section: students
     people:
       - name: "Sajjad Hussain"
-        role: "Lead Researcher"
+        role: "Multi-modal Robotics Control"
         image: assets/img/team/sh.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Ola Ezekiel"
-        role: "Emotion Recognition Researcher"
+        role: "Emotion Recognition and Analysis"
         image: assets/img/team/ote.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Awes Mubarak"
-        role: "Role"
-        image: assets/img/team/500x500.jpg
+        role: "Determinism in Large Language Models"
+        image: assets/img/team/am.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in

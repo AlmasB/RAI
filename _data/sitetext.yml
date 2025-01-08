@@ -91,6 +91,12 @@ en: &DEFAULT_EN
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "Hansen Han"
+        role: "Text-conditioned Human Motion Generation"
+        image: assets/img/team/hh.png
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
 
   footer:
     legal: "Privacy Policy"

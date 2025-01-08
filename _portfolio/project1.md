@@ -7,7 +7,7 @@ alt: Controlling robots
 caption:
   title: Multi-modal Control for Robotic Devices
   subtitle: ""
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/cai-thumbnail.png
 ---
 Use this area to describe your project. **Markdown** supported.
 

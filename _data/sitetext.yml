@@ -61,7 +61,7 @@ en: &DEFAULT_EN
           - url: https://research.brighton.ac.uk/en/persons/khizer-saeed
             icon: fas fa-user-circle
       - name: "Shanay Rab"
-        role: "Role"
+        role: "Metrology, Machine Design, Automation, and Robotics."
         image: assets/img/team/sr.png
         social:
           - url: https://research.brighton.ac.uk/en/persons/shanay-rab
@@ -94,6 +94,12 @@ en: &DEFAULT_EN
       - name: "Hansen Han"
         role: "Text-conditioned Human Motion Generation"
         image: assets/img/team/hh.png
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "TBC New Researcher"
+        role: "Research Project"
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in

@@ -20,7 +20,7 @@
 </nav> -->
 
 <div id="fullpage">
-	<div class="section panel">Some section</div>
+	<div class="section panel">Some section1</div>
 	<div class="section panel">Some section</div>
 	<div class="section panel">Some section</div>
 	<div class="section panel">Some section</div>

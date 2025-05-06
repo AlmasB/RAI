@@ -1,0 +1,16 @@
+<svg
+	width="35"
+	height="397"
+	viewBox="0 0 35 397"
+	fill="none"
+	xmlns="http://www.w3.org/2000/svg"
+	preserveAspectRatio="none"
+	style="transform: none; display: block; opacity: 1;"
+	><path
+		fill-rule="evenodd"
+		clip-rule="evenodd"
+		d="M9.05538 77.9236V197.873V198.244V318.194V318.313L9.00179 318.419L1 334.281V352.928L34.5787 395.498L33.7935 396.117L0.107427 353.411L0 353.275V353.101V334.162V334.043L0.0535848 333.937L8.05538 318.075V198.244V197.873V78.0426L0.0535847 62.1803L0 62.0741V61.9551V43.0158V42.8423L0.107427 42.7061L33.7935 -0.000244141L34.5787 0.61908L1 43.1892V61.8362L9.00179 77.6984L9.05538 77.8046V77.9236Z"
+		fill="#fff"
+		fill-opacity="0.25"
+	></path></svg
+>

@@ -1,0 +1,144 @@
+$font-white: #fafaf9;
+$button-border-color: #fafaf9;
+$corner-border-width: 4px;
+$corner-border-size-top: 16px;
+$corner-border-size-side: 2px;
+$text-border-size: 40px;
+$text-border-width: 1px;
+$text-border-color: #fff;
+$title-font-size: 36px;
+$button-background: rgb(67, 53, 129, 0.6);
+$top-bar-height: 60px;
+
+$margin-1: 40px;
+$robot-margin: 300px;
+
+@mixin button-top {
+
+    position: relative;
+    display: inline-block;
+    background: transparent;
+
+    &::before,
+    &::after {
+        content: "";
+        position: absolute;
+        width: $corner-border-width;
+        height: 0;
+        border-top: $corner-border-size-top solid $button-border-color;
+        top: 0;
+        border-bottom: 0;
+    }
+
+    &::before {
+        left: 0;
+        border-left: $corner-border-size-side solid $button-border-color;
+        z-index: 9;
+    }
+
+    &::after {
+        right: 0;
+        border-right: $corner-border-size-side solid $button-border-color;
+    }
+}
+
+@mixin button-bottom {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    text-decoration: none;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    // background-color: $button-background;
+    background-color: rgb(38, 34, 65);
+
+    @include glassblur();
+
+    &:visited {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    &::before,
+    &::after {
+        content: "";
+        position: absolute;
+        width: $corner-border-width;
+        height: calc(100% - $corner-border-size-top);
+        border-bottom: $corner-border-size-top solid $button-border-color;
+        bottom: 0;
+        border-top: 0;
+    }
+
+    &::before {
+        left: 0;
+        border-left: $corner-border-size-side solid $button-border-color;
+    }
+
+    &::after {
+        right: 0;
+        border-right: $corner-border-size-side solid $button-border-color;
+    }
+}
+
+
+@mixin glassblur($blur: 10px) {
+    backdrop-filter: blur($blur);
+    -webkit-backdrop-filter: blur($blur);
+}
+
+
+@mixin glassmorphism($blur: 10px) {
+    background: $button-background;
+    backdrop-filter: blur($blur);
+    -webkit-backdrop-filter: blur($blur);
+    // border-radius: 10px;
+    // border: 2px solid rgba(255, 255, 255, 0.18);
+    border: 2px solid $button-border-color;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+@mixin link {
+    color: inherit;
+    text-decoration: none;
+
+    &:visited {
+        color: inherit;
+        text-decoration: none;
+    }
+}
+
+@mixin flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin flex-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@mixin operation-font {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+@mixin opacity-ease {
+    opacity: 1;
+    transition: all 0.4s ease;
+}
+
+.invisible {
+    opacity: 0 !important;
+}
+
+.hidden {
+    display: none !important;
+}

@@ -97,9 +97,9 @@ en: &DEFAULT_EN
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "TBC New Researcher"
-        role: "Research Project"
-        image: assets/img/team/500x500.jpg
+      - name: "Nacho Cabrera Martin"
+        role: "Sign Language Recognition for Mobile Devices"
+        image: assets/img/team/ncm.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in

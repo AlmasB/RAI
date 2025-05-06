@@ -57,9 +57,9 @@
 			],
 		},
 		{
-			name: "TBC New Researcher",
-			project: "Research Project",
-			image: `${base}/images/placeholder.jpg`,
+			name: "Nacho Cabrera Martin",
+			project: "Sign Language Recognition for Mobile Devices",
+			image: `${base}/images/team/ncm.png`,
 			social: [
 				{
 					url: "https://linkedin.com",

@@ -103,7 +103,12 @@ en: &DEFAULT_EN
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-
+      - name: "Simi Ibraheem"
+        role: "Generative AI for Context-Aware NPC Dialogue"
+        image: assets/img/team/si.png
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
   footer:
     legal: "Privacy Policy"
 

@@ -109,6 +109,12 @@ en: &DEFAULT_EN
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "TBC (Feb 2026)"
+        role: "Multi-modal Natural Language Processing"
+        image:
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
   footer:
     legal: "Privacy Policy"
 

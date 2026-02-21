@@ -67,6 +67,17 @@
 				},
 			],
 		},
+        {
+			name: "TBC",
+			project: "TBC",
+			image: `${base}/images/team/ncm.png`,
+			social: [
+				{
+					url: "https://linkedin.com",
+					icon: "fas fa-user-circle",
+				},
+			],
+		},
 	];
 </script>
 

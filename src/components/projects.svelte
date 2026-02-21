@@ -140,7 +140,7 @@
 					}
 				}
 				p {
-					font-size: 22px;
+					font-size: 18px;
 				}
 			}
 		}
@@ -179,7 +179,7 @@
 				@include global.glassblur(2px);
 				padding: calc(global.$margin-1 / 2) 0;
 
-				font-size: 18px;
+				font-size: 22px;
 			}
 		}
 	}

@@ -18,7 +18,7 @@
 					<h3>Study for your PhD</h3>
 				</div>
 				<p>
-					We welcome any applications related to Robotics and/or AI.
+					We welcome any applications related to AI and/or Robotics.
 					You can find out more at UoB Computing PhD.
 				</p>
 			</div>
@@ -47,13 +47,13 @@
 					target="_blank"
 					rel="noopener noreferrer">Almas</a
 				>
-				for any queries related to the Robotics AI Lab.
+				for any queries related to the AI Robotics Lab.
 			</p>
 		</div>
 	</div>
 
 	<div class="footer">
-		<div class="copyright">Copyright © UoB RAI Lab 2025</div>
+		<div class="copyright">Copyright © UoB AIR Lab 2025-2026. Website developed by Hansen Han</div>
 		<div class="privacy">
 			<a href="{base}/privacy">Privacy Policy</a>
 		</div>

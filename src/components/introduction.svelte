@@ -15,9 +15,7 @@
 			class="desc-inner"
 			style="background-image: url({base}/images/intro-background.png);"
 		>
-			Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti
-			officiis exercitationem sapiente labore praesentium, omnis porro
-			tempore tenetur placeat veniam soluta itaque magnam.
+			IN DEVELOPMENT
 		</div>
 	</div>
 

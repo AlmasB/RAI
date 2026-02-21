@@ -245,7 +245,7 @@
 		<img src="{base}/images/logo.png" alt="" width="32px" height="32px" />
 		<div>
 			<span class:invisible={current_section_index !== 0}>
-				Brighton AI Robotics (AIR) Force Projects</span
+				Brighton AI Robotics (AIR) Lab</span
 			>
 			<span class:invisible={current_section_index !== 1}
 				>Research Projects</span

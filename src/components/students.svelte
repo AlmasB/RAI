@@ -68,9 +68,20 @@
 			],
 		},
         {
-			name: "TBC",
+			name: "Simi Ibraheem",
+			project: "Generative AI for Context-Aware NPC Dialogue",
+			image: `${base}/images/team/si.png`,
+			social: [
+				{
+					url: "https://linkedin.com",
+					icon: "fas fa-user-circle",
+				},
+			],
+		},
+        {
+			name: "TBC (November 2026)",
 			project: "TBC",
-			image: `${base}/images/team/ncm.png`,
+			image: `${base}/images/logo.png`,
 			social: [
 				{
 					url: "https://linkedin.com",

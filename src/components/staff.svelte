@@ -79,9 +79,7 @@
 		</div>
 	</div>
 	<div class="desc">
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde recusandae
-		sed, suscipit eum officia magni a itaque nisi doloribus minus ut, optio
-		tenetur eos magnam excepturi expedita totam soluta asperiores?
+		
 	</div>
 {/snippet}
 

@@ -19,7 +19,12 @@
 				</div>
 				<p>
 					We welcome any applications related to AI and/or Robotics.
-					You can find out more at UoB Computing PhD.
+					You can find out more at <a
+                        href="https://www.brighton.ac.uk/research/postgraduate-research-degrees/programme-areas/computing.aspx"
+                        target="_blank"
+                        rel="noopener noreferrer">UoB Computing PhD</a
+                    >
+                    .
 				</p>
 			</div>
 			<div>
@@ -39,8 +44,8 @@
 		<div class="contact">
 			<h3>Contact Us</h3>
 			<p>University of Brighton</p>
-			<p>Advanced Engineering Building Brighton</p>
-			<p>United Kingdom BN2 4AT</p>
+			<p>Advanced Engineering Building</p>
+			<p>Brighton, United Kingdom, BN2 4AT</p>
 			<p>
 				Please contact <a
 					href="https://research.brighton.ac.uk/en/persons/almas-baimagambetov"

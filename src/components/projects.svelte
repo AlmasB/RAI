@@ -4,12 +4,12 @@
 	const projects = [
 		{
 			title: "Multi-modal Control for Robotic Devices",
-			desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, eos tempore voluptatum quisquam saepe sed pariatur enim quibusdam asperiores tempora earum quis aliquid repudiandae dolores quaerat voluptate fugiat harum doloremque.",
+			desc: "",
 			content: content1,
 		},
 		{
 			title: "Central Artificial Intelligence",
-			desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, eos tempore voluptatum quisquam saepe sed pariatur enim quibusdam asperiores tempora earum quis aliquid repudiandae dolores quaerat voluptate fugiat harum doloremque.",
+			desc: "",
 			content: content2,
 		},
 	];
@@ -19,37 +19,19 @@
 
 {#snippet content1()}
 	<p>
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, eos
-		tempore voluptatum quisquam saepe sed pariatur enim quibusdam asperiores
-		tempora earum quis aliquid repudiandae dolores quaerat voluptate fugiat
-		harum doloremque.
+		The transition toward Industry 5.0 necessitates robotic systems capable of seamless, intuitive collaboration with humans, moving beyond pre-programmed tools to adaptive partners. However, current Human-Robot Interaction (HRI) frameworks often struggle to interpret natural, multimodal human cues in dynamic environments, relying on rigid control interfaces that lack contextual reasoning. This research aims to bridge the gap between high-level cognitive reasoning and low-level motor control by developing a robust, multimodal HRI framework for a 7-Degree-of-Freedom (DoF) robotic manipulator. The methodology integrates three core components: a Convolutional Neural Network (CNN) based system (GESTID) for real-time static and dynamic gesture recognition; a Goal-Oriented Action Planning (GOAP) engine for dynamic task sequencing; and a Large Language Model (LLM) interface for interpreting natural language commands. These components are unified via the Robot Operating System (ROS) to control a Franka Emika Panda robot. The study specifically investigates the use of LLMs to perform semantic mapping of ambiguous speech instructions into deterministic robotic actions.
 	</p>
 	<p>
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, eos
-		tempore voluptatum quisquam saepe sed pariatur enim quibusdam asperiores
-		tempora earum quis aliquid repudiandae dolores quaerat voluptate fugiat
-		harum doloremque.
-	</p>
-	<p>
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, eos
-		tempore voluptatum quisquam saepe sed pariatur enim quibusdam asperiores
-		tempora earum quis aliquid repudiandae dolores quaerat voluptate fugiat
-		harum doloremque.
+		Experimental evaluations across complex scenarios, such as beverage preparation, demonstrated high system efficacy. The vision-based gesture recognition module achieved a classification accuracy of 99.1% with low latency, enabling realtime teleoperation. The speech-based interaction, integrated with GOAP, yielded a task success rate of 85.4% under dynamic conditions, while the LLM-driven semantic mapping correctly interpreted natural language instructions with 94.67% accuracy. These findings indicate that fusing visual perception with linguistic reasoning significantly enhances robotic adaptability. This thesis contributes a validated, scalable framework for multimodal HRI, offering tangible implications for industrial automation, healthcare, and assistive technologies where intuitive, hands-free control is paramount.
 	</p>
 {/snippet}
 
 {#snippet content2()}
 	<p>
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, eos
-		tempore voluptatum quisquam saepe sed pariatur enim quibusdam asperiores
-		tempora earum quis aliquid repudiandae dolores quaerat voluptate fugiat
-		harum doloremque.
+		Central Artificial Intelligence is an ongoing research project focused on developing a unified software intelligence layer capable of coordinating, controlling, and optimising a diverse ecosystem of robotic devices and AI‑driven processes. The project explores how a centralised AI architecture can integrate perception, decision‑making, and actuation across heterogeneous platforms—from mobile robots and manipulators to autonomous sensors and cloud‑based agents. By creating a shared cognitive framework, the system enables robots to operate collaboratively, adapt to changing environments, and make informed decisions based on real‑time data fusion and distributed situational awareness.
 	</p>
 	<p>
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, eos
-		tempore voluptatum quisquam saepe sed pariatur enim quibusdam asperiores
-		tempora earum quis aliquid repudiandae dolores quaerat voluptate fugiat
-		harum doloremque.
+		At the core of the project is the design of a scalable orchestration engine that manages tasks, resources, and inter‑robot communication through advanced algorithms in planning, reinforcement learning, and multi‑agent coordination. This central AI acts as both conductor and collaborator: it allocates work, resolves conflicts, and ensures global optimisation, while still allowing individual robots to maintain local autonomy. The long‑term goal is to establish a flexible, intelligent control infrastructure that can support complex robotic ecosystems in domains such as smart manufacturing, healthcare automation, environmental monitoring, and service robotics—unlocking seamless interaction between humans, machines, and AI systems.
 	</p>
 {/snippet}
 

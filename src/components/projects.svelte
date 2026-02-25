@@ -12,6 +12,16 @@
 			desc: "",
 			content: content2,
 		},
+		{
+			title: "Text Conditioned Human Motion Generation",
+			desc: "",
+			content: content3,
+		},
+		{
+			title: "Secure Human-Robot Interaction Using Facial Emotion",
+			desc: "",
+			content: content4,
+		},
 	];
 
 	let active_project_index = $state(0);
@@ -28,10 +38,29 @@
 
 {#snippet content2()}
 	<p>
-		Central Artificial Intelligence is an ongoing research project focused on developing a unified software intelligence layer capable of coordinating, controlling, and optimising a diverse ecosystem of robotic devices and AI‑driven processes. The project explores how a centralised AI architecture can integrate perception, decision‑making, and actuation across heterogeneous platforms—from mobile robots and manipulators to autonomous sensors and cloud‑based agents. By creating a shared cognitive framework, the system enables robots to operate collaboratively, adapt to changing environments, and make informed decisions based on real‑time data fusion and distributed situational awareness.
+		Central Artificial Intelligence is an ongoing research project focused on developing a unified software intelligence layer capable of coordinating, controlling, and optimising a diverse ecosystem of robotic devices and AI-driven processes. The project explores how a centralised AI architecture can integrate perception, decision‑making, and actuation across heterogeneous platforms—from mobile robots and manipulators to autonomous sensors and cloud-based agents. By creating a shared cognitive framework, the system enables robots to operate collaboratively, adapt to changing environments, and make informed decisions based on real-time data fusion and distributed situational awareness.
 	</p>
 	<p>
-		At the core of the project is the design of a scalable orchestration engine that manages tasks, resources, and inter‑robot communication through advanced algorithms in planning, reinforcement learning, and multi‑agent coordination. This central AI acts as both conductor and collaborator: it allocates work, resolves conflicts, and ensures global optimisation, while still allowing individual robots to maintain local autonomy. The long‑term goal is to establish a flexible, intelligent control infrastructure that can support complex robotic ecosystems in domains such as smart manufacturing, healthcare automation, environmental monitoring, and service robotics—unlocking seamless interaction between humans, machines, and AI systems.
+		At the core of the project is the design of a scalable orchestration engine that manages tasks, resources, and inter-robot communication through advanced algorithms in planning, reinforcement learning, and multi-agent coordination. This central AI acts as both conductor and collaborator: it allocates work, resolves conflicts, and ensures global optimisation, while still allowing individual robots to maintain local autonomy. The long-term goal is to establish a flexible, intelligent control infrastructure that can support complex robotic ecosystems in domains such as smart manufacturing, healthcare automation, environmental monitoring, and service robotics—unlocking seamless interaction between humans, machines, and AI systems.
+	</p>
+{/snippet}
+
+{#snippet content3()}
+	<p>
+		We study text-conditioned human motion generation with an emphasis on physical plausibility. The model produces full-body humanoid motion that remains physically stable by given a natural-language description.
+	</p>
+	<p>
+		To improve robustness and personalization, we train policies across multiple body shapes and genders by conditioning on SMPL-style shape parameters (betas) and gender, using a HUMOS/SMPL-based motion library as reference supervision. Learning combines imitation-style tracking with adversarial motion priors to preserve semantic alignment to text while promoting realistic, human-like motion.
+	</p>
+{/snippet}
+
+{#snippet content4()}
+	<p>
+		As robots increasingly operate in human-centred environments such as healthcare, education, and domestic assistance, their ability to perceive and respond appropriately to human emotional states has become critical to effective and trustworthy interaction. Facial Emotion Recognition (FER) is widely adopted for enabling emotion-aware behaviour; however, existing approaches largely prioritise classification accuracy while overlooking robustness, uncertainty, and security. This presents significant risks when emotion predictions directly inform robotic decision-making. This study develops a Multimodal Risk-Aware Emotion Verification (MREV) framework for robust emotion-guided Human–Robot Interaction (HRI). The framework treats emotion perception as a safety- and security-critical input and integrates facial emotion recognition with robustness analysis, adversarial vulnerability assessment, and risk-aware decision-making.
+
+	</p>
+	<p>
+		FER pipelines, including baseline and CNN-based approaches, are evaluated for real-time deployment in HRI settings, with analysis of performance under unconstrained conditions and adversarial perturbations to examine how misclassification and uncertainty propagate to robotic behaviour. The study further demonstrates the integration of emotion recognition with robotic task execution and speech-based interaction, enabling robots to respond adaptively to inferred human emotional states. Adversarial attacks are used to assess system resilience and highlight vulnerabilities that could compromise interaction safety and trust. The primary contribution of this work is a system-level approach that unifies emotion perception, verification, and robotic control within a coherent risk-aware framework. By moving beyond accuracy-driven emotion recognition, the thesis advances the design of secure, interpretable, and trustworthy emotion-aware robotic systems and provides practical guidance for deployment in safety-sensitive and socially interactive environments.
 	</p>
 {/snippet}
 

@@ -15,7 +15,7 @@
 			class="desc-inner"
 			style="background-image: url({base}/images/intro-background.png);"
 		>
-			IN DEVELOPMENT
+			
 		</div>
 	</div>
 

@@ -14,7 +14,7 @@
 	const STUDENT_LIST: STUDENT[] = [
 		{
 			name: "Dr Sajjad Hussain",
-			project: "Multi-modal Robotics Control",
+			project: "Multi-modal Robotics Control (completed June 2026)",
 			image: `${base}/images/team/sh.png`,
 			social: [
 				{

@@ -13,7 +13,7 @@
 
 	const STUDENT_LIST: STUDENT[] = [
 		{
-			name: "Sajjad Hussain",
+			name: "Dr Sajjad Hussain",
 			project: "Multi-modal Robotics Control",
 			image: `${base}/images/team/sh.png`,
 			social: [
@@ -79,8 +79,30 @@
 			],
 		},
         {
+			name: "TBC (October 2026)",
+			project: "Social Robots (TBC)",
+			image: `${base}/images/logo.png`,
+			social: [
+				{
+					url: "https://linkedin.com",
+					icon: "fas fa-user-circle",
+				},
+			],
+		},
+        {
+			name: "TBC (October 2026)",
+			project: "AI Fashion (TBC)",
+			image: `${base}/images/logo.png`,
+			social: [
+				{
+					url: "https://linkedin.com",
+					icon: "fas fa-user-circle",
+				},
+			],
+		},
+        {
 			name: "TBC (November 2026)",
-			project: "TBC",
+			project: "Robot Brain (TBC)",
 			image: `${base}/images/logo.png`,
 			social: [
 				{

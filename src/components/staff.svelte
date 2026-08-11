@@ -42,6 +42,28 @@
 				},
 			],
 		},
+		{
+			name: "Dr Sajjad Hussain",
+			role: "Human-robot Interaction",
+			image: `${base}/images/team/sh.png`,
+			social: [
+				{
+					url: "",
+					icon: "fas fa-user-circle",
+				},
+			],
+		},
+        {
+			name: "Beck Farrington-Wheeler",
+			role: "Sustainable AI",
+			image: `${base}/images/logo.png`,
+			social: [
+				{
+					url: "",
+					icon: "fas fa-user-circle",
+				},
+			],
+		},
 	];
 
 	let active_staff_index = $state(0);

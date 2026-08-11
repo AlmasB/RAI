@@ -101,8 +101,8 @@
 			],
 		},
         {
-			name: "TBC (November 2026)",
-			project: "Robot Brain (TBC)",
+			name: "Dave Skinner",
+			project: "(TBC)",
 			image: `${base}/images/logo.png`,
 			social: [
 				{

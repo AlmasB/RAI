@@ -35,7 +35,7 @@
 					<h3>Work with our team</h3>
 				</div>
                 	<div class="team_profile">
-                        <img src={`${base}/images/team/group.jpg`} />
+                        <img src={`${base}/images/team/group.jpg`} width="410" height="230" />
                     </div>
 				<p>
 					We are always looking to create new networks and support

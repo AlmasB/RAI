@@ -64,6 +64,17 @@
 				},
 			],
 		},
+        {
+            name: "Dr Bayode Ogunleye",
+            role: "Natural Language Processing",
+            image: `${base}/images/team/bo.png`,
+            social: [
+                {
+                    url: "",
+                    icon: "fas fa-user-circle",
+                },
+            ],
+        },
 	];
 
 	let active_staff_index = $state(0);

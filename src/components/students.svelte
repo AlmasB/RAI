@@ -81,7 +81,7 @@
         {
 			name: "Megan Welter",
 			project: "Executive Assistance Robots for Autistic University Students",
-			image: `${base}/images/mw.png`,
+			image: `${base}/images/team/mw.png`,
 			social: [
 				{
 					url: "https://linkedin.com",

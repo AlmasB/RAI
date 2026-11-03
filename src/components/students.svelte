@@ -79,9 +79,9 @@
 			],
 		},
         {
-			name: "TBC (October 2026)",
-			project: "Social Robots (TBC)",
-			image: `${base}/images/logo.png`,
+			name: "Megan Welter",
+			project: "Executive Assistance Robots for Autistic University Students",
+			image: `${base}/images/mw.png`,
 			social: [
 				{
 					url: "https://linkedin.com",
@@ -90,7 +90,7 @@
 			],
 		},
         {
-			name: "TBC (October 2026)",
+			name: "TBC (January 2027)",
 			project: "AI Fashion (TBC)",
 			image: `${base}/images/logo.png`,
 			social: [
@@ -101,7 +101,18 @@
 			],
 		},
         {
-			name: "Dave Skinner",
+            name: "TBC (January 2027)",
+            project: "Medical AI (TBC)",
+            image: `${base}/images/logo.png`,
+            social: [
+                {
+                    url: "https://linkedin.com",
+                    icon: "fas fa-user-circle",
+                },
+            ],
+        },
+        {
+			name: "Dave Skinner (October 2027)",
 			project: "(TBC)",
 			image: `${base}/images/logo.png`,
 			social: [
